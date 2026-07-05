@@ -145,7 +145,7 @@ Please enter your Date of Birth.
 **User**
 
 ```
-16/04/2004
+15/12/2004
 ```
 
 **Assistant**
